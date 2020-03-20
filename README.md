@@ -13,3 +13,16 @@ analyze which profession is the major culprit in this and what steps can
 be taken for the same.
 
 ![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/1.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/2.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/3.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/4.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/5.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/6.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/7.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/8.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/9.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/10.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/11.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/12.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/13.png)
+![Image description](https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/14.png)

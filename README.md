@@ -11,3 +11,5 @@ factors, which have an impact.
 4) Also, creating a demographic map of the suicides in India so that we can
 analyze which profession is the major culprit in this and what steps can
 be taken for the same.
+
+![alt text] (https://github.com/shlokashah/Student-Depression-And-Suicide-Rate-Prediction/blob/master/media/1.png)
